@@ -1,0 +1,8 @@
+x	Applications 	BT_{th}=2	BT_{th}=3	BT_{th}=4	BT_{th}=5
+1	Magick		220		220		220		220
+2	MySql		605		676		709		709
+3	PHPFPM		1387		1443		1452		1452
+4	Apache2		1410		1418		1422		1422
+5	OpenVPN		2281		2513		2535		2537
+6	Wget		0648		0985		1010		1021
+7	DynamoDB		62		143		143		143

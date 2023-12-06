@@ -1,0 +1,8 @@
+x	Applications 	Size(KB)
+1	Magick		27556
+2	MySql		7764
+3	PHP-FPM		5519
+4	Apache2		2660
+5	OpenVPN		798
+6	Wget		545
+7	DynamoDB	71
